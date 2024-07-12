@@ -34,9 +34,48 @@ section {
     border-radius: 10px;
     text-decoration: none;
     color: aliceblue;
-    font-weight: 700;
+    font-weight: 600;
     padding-left: 5px;
     padding-right: 10px;
     color: azure;
     box-shadow: 2px;
+}
+
+.about-half img {
+    height: 550px;
+}
+
+.about-half {
+    padding-left: 15%;
+    margin-right: 200px;
+    padding-top: 50px;
+}
+
+.about-half h2 {
+    padding-top: 150px;
+    font-size: 35px;
+
+}
+
+.about-half a {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: aliceblue;
+    font-weight: 600;
+    box-shadow: 2px;
+
+}
+
+.about-half p {
+    margin-bottom: 40px;
+}
+
+.about {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 200px;
 }
