@@ -79,3 +79,63 @@ section {
     background-size: cover;
     margin-bottom: 200px;
 }
+
+.reciepe {
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.title {
+    padding-left: 100px;
+    margin-left: 50px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px gray;
+    margin-bottom: 200px;
+    padding-bottom: 100px;
+}
+
+.title p {
+    margin-right: 50px;
+}
+
+.diagram h2 {
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 50px;
+}
+
+.diagram {
+    padding-left: 25%;
+    box-shadow: 2px 2px 2px 2px gray;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+
+.youtube {
+    margin-right: 280px;
+}
+
+.insta {
+    margin-right: 50px;
+}
+
+.dribble {
+    padding-left: 250px;
+}
+
+
+
+.footer {
+    background-color: black;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 100px;
+
+}
